@@ -102,13 +102,7 @@ pip install flask pymysql
 python app.py
 ```
 
-Access the application at [http://localhost:5000](http://localhost:5000)
-
----
-
-## 📷 Screenshots
-
-> You can add screenshots of your HTML pages here.
+Access the application at [http://localhost:5000](http://localhost:5000
 
 ---
 
